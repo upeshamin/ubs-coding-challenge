@@ -1,5 +1,6 @@
-package ubs.coding.test;
+package com.ubs.coding.test;
 
+import com.ubs.coding.test.AccountNumberValidator;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
